@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import Button from "./Ui/Button";
+import Button from "./UI/Button";
 import { gsap } from "gsap";
 
 function HeroSection() {
